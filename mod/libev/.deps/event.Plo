@@ -1,0 +1,114 @@
+event.lo: event.c \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/lib/gcc/arm-buildroot-linux-uclibcgnueabi/4.9.3/include/stddef.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/stdlib.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/features.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/types.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/types.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/wordsize.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/typesizes.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/endian.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/endian.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/byteswap.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap-common.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/time.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/select.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/select.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigset.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/time.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/sysmacros.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/alloca.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/assert.h \
+ event.h ev.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/string.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/signal.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/signum.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/siginfo.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigaction.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigcontext.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/asm/sigcontext.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigstack.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigthread.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/stat.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/stat.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_clk_tck.h \
+ /home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/time.h
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/lib/gcc/arm-buildroot-linux-uclibcgnueabi/4.9.3/include/stddef.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/stdlib.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/features.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/types.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/types.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/wordsize.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/typesizes.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/endian.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/endian.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/byteswap.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap-common.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/time.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/select.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/select.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigset.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/time.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/sysmacros.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/alloca.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/assert.h:
+
+event.h:
+
+ev.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/string.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/signal.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/signum.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/siginfo.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigaction.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigcontext.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/asm/sigcontext.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigstack.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/sigthread.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/stat.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/stat.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_clk_tck.h:
+
+/home/qs2d/build_dpi/toolchains/zhongxing_odm_zx279127/toolchain/arm-buildroot-linux-uclibcgnueabi/sysroot/usr/include/sys/time.h:
